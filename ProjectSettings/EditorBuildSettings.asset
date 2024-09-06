@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Under.unity
+    guid: 92c8e356eeaab1b4e954ddcf9f6d8937
+  - enabled: 1
+    path: Assets/Scenes/Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Squeeze.unity
+    guid: bc4322722fb47f14f9c107f1bf40ba4f
+  - enabled: 1
+    path: Assets/Scenes/UnderOscilating.unity
+    guid: 76b6b8357888a0d4cbb015b78f8ce6f0
+  - enabled: 1
+    path: Assets/Scenes/TrueGap.unity
+    guid: 05c099fa196f65047a5feeaf17f52ec8
+  m_configObjects: {}
